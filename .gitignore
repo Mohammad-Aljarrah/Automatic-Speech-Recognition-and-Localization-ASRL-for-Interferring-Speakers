@@ -1,0 +1,33 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+venv1/
+
+# Data files (raw and processed)
+Dataset/
+*.csv
+*.h5
+*.npy
+
+# Model artifacts
+Experiments and trained NN models/
+
+# Results
+Results/
+notebook/
+# PyCharm files
+.idea/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# OS temp files
+.DS_Store
+Thumbs.db
